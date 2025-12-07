@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|d:\\code related\\hotelapi2\\hotelapi2.0\\hotelapi2.0\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|solutionrelative:hotelapi2.0\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|d:\\code related\\hotelapi2\\hotelapi2.0\\hotelapi2.0\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|solutionrelative:hotelapi2.0\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|d:\\code related\\hotelapi2\\hotelapi2.0\\hotelapi2.0\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|solutionrelative:hotelapi2.0\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|d:\\code related\\hotelapi2\\hotelapi2.0\\hotelapi2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|solutionrelative:hotelapi2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|d:\\code related\\hotelapi2\\hotelapi2.0\\hotelapi2.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|solutionrelative:hotelapi2.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|d:\\code related\\hotelapi2\\hotelapi2.0\\hotelapi2.0\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|solutionrelative:hotelapi2.0\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|d:\\code related\\hotelapi2\\hotelapi2.0\\hotelapi2.0\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|solutionrelative:hotelapi2.0\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|d:\\code related\\hotelapi2\\hotelapi2.0\\hotelapi2.0\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|solutionrelative:hotelapi2.0\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|d:\\code related\\hotelapi2\\hotelapi2.0\\hotelapi2.0\\models\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|solutionrelative:hotelapi2.0\\models\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|d:\\code related\\hotelapi2\\hotelapi2.0\\hotelapi2.0\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|solutionrelative:hotelapi2.0\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|d:\\code related\\hotelapi2\\hotelapi2.0\\hotelapi2.0\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|solutionrelative:hotelapi2.0\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|d:\\code related\\hotelapi2\\hotelapi2.0\\hotelapi2.0\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|solutionrelative:hotelapi2.0\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|d:\\code related\\hotelapi2\\hotelapi2.0\\hotelapi2.0\\controllers\\guestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|solutionrelative:hotelapi2.0\\controllers\\guestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|d:\\code related\\hotelapi2\\hotelapi2.0\\hotelapi2.0\\hotelapi2.0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{06CB1C46-FE09-4340-8C04-1B6859A511E3}|HotelAPI2.0\\HotelAPI2.0.csproj|solutionrelative:hotelapi2.0\\hotelapi2.0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\appsettings.json",
+              "RelativeDocumentMoniker": "HotelAPI2.0\\appsettings.json",
+              "ToolTip": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\appsettings.json",
+              "RelativeToolTip": "HotelAPI2.0\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-07T14:40:59.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\Program.cs",
+              "RelativeDocumentMoniker": "HotelAPI2.0\\Program.cs",
+              "ToolTip": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\Program.cs",
+              "RelativeToolTip": "HotelAPI2.0\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T14:40:09.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "room.cs",
+              "DocumentMoniker": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\Models\\room.cs",
+              "RelativeDocumentMoniker": "HotelAPI2.0\\Models\\room.cs",
+              "ToolTip": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\Models\\room.cs",
+              "RelativeToolTip": "HotelAPI2.0\\Models\\room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T14:34:22.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "role.cs",
+              "DocumentMoniker": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\Models\\role.cs",
+              "RelativeDocumentMoniker": "HotelAPI2.0\\Models\\role.cs",
+              "ToolTip": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\Models\\role.cs",
+              "RelativeToolTip": "HotelAPI2.0\\Models\\role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T14:34:02.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "reservation.cs",
+              "DocumentMoniker": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\Models\\reservation.cs",
+              "RelativeDocumentMoniker": "HotelAPI2.0\\Models\\reservation.cs",
+              "ToolTip": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\Models\\reservation.cs",
+              "RelativeToolTip": "HotelAPI2.0\\Models\\reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T14:33:23.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "level.cs",
+              "DocumentMoniker": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\Models\\level.cs",
+              "RelativeDocumentMoniker": "HotelAPI2.0\\Models\\level.cs",
+              "ToolTip": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\Models\\level.cs",
+              "RelativeToolTip": "HotelAPI2.0\\Models\\level.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T14:32:59.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "guest.cs",
+              "DocumentMoniker": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\Models\\guest.cs",
+              "RelativeDocumentMoniker": "HotelAPI2.0\\Models\\guest.cs",
+              "ToolTip": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\Models\\guest.cs",
+              "RelativeToolTip": "HotelAPI2.0\\Models\\guest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T14:32:41.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "employee.cs",
+              "DocumentMoniker": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\Models\\employee.cs",
+              "RelativeDocumentMoniker": "HotelAPI2.0\\Models\\employee.cs",
+              "ToolTip": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\Models\\employee.cs",
+              "RelativeToolTip": "HotelAPI2.0\\Models\\employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T14:31:51.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HotelAPI2.0\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "HotelAPI2.0\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T14:29:55.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "HotelAPI2.0\\Controllers\\RoomsController.cs",
+              "ToolTip": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "HotelAPI2.0\\Controllers\\RoomsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T14:26:58.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "HotelAPI2.0\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "HotelAPI2.0\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T14:25:15.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "HotelAPI2.0\\Controllers\\ReservationsController.cs",
+              "ToolTip": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "HotelAPI2.0\\Controllers\\ReservationsController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T14:26:07.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GuestsController.cs",
+              "DocumentMoniker": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\Controllers\\GuestsController.cs",
+              "RelativeDocumentMoniker": "HotelAPI2.0\\Controllers\\GuestsController.cs",
+              "ToolTip": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\Controllers\\GuestsController.cs",
+              "RelativeToolTip": "HotelAPI2.0\\Controllers\\GuestsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T14:25:50.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HotelAPI2.0",
+              "DocumentMoniker": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\HotelAPI2.0.csproj",
+              "RelativeDocumentMoniker": "HotelAPI2.0\\HotelAPI2.0.csproj",
+              "ToolTip": "D:\\Code related\\HotelAPI2\\HotelAPI2.0\\HotelAPI2.0\\HotelAPI2.0.csproj",
+              "RelativeToolTip": "HotelAPI2.0\\HotelAPI2.0.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-07T14:29:27.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
